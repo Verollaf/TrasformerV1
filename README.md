@@ -7,5 +7,6 @@ Implementazione del modello transformer base
 ## 1. Implementations
 
 ### 1.1 Positional Encoding
+![model](images/Positional.jpeg)
 
-![model](image/positional_encoding.jpg)
+!
